@@ -2,7 +2,7 @@
 Base de Datos MySQL con la división territorial de Costa Rica
 
 ## Información
-Dentro de la carpeta SQL encontrarán tres archivos ".sql":
+Encontrarán tres archivos ".sql":
 * bd_costa_rica_structure: Contiene sólo la estructura de las tablas.
 * bd_costa_rica_data: Contiene sólo los datos de las tablas.
 * bd_costa_rica_structure_data: Contiene la estructura y datos de las tablas.
